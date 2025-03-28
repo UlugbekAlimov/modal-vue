@@ -1,5 +1,22 @@
-# Vue 3 + Vite
+# Vue 3 + Vite — Модальное окно
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Простой проект на Vue 3 с Vite, демонстрирующий открытие и закрытие модального окна. Используется Composition API и `<script setup>`.
 
+## Установка и запуск
+
+1. Установи зависимости:
+   `npm install`
+Запусти локальный сервер:
+
+  `npm run dev`
+О проекте
+Проект включает в себя:
+
+Vue 3 + Vite
+
+Composition API
+
+Управление состоянием модального окна с ref
+
+Базовый стиль через CSS
 Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
